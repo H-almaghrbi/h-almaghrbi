@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 أهلاً، أنا حذيفة المغربي
 
-<!--
-**H-almaghrbi/h-almaghrbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+طالب هندسة برمجيات ومهتم بتطوير البرمجيات وبناء الحلول التقنية العملية.
 
-Here are some ideas to get you started:
+## 🚀 نبذة عني
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 مهندس برمجيات.
+* 💻 مطور تطبيقات باستخدام Flutter.
+* 🌐 مهتم بتطوير تطبيقات الويب والأنظمة الإدارية.
+* 📚 أعمل باستمرار على تطوير مهاراتي في البرمجة وهندسة البرمجيات.
+* 🔍 مهتم بالخوارزميات، حل المشكلات، وتصميم الأنظمة.
+
+## 🛠️ التقنيات التي أعمل بها
+
+### Mobile Development
+
+* Flutter
+* Dart
+
+### Web Development
+
+* PHP
+* JavaScript
+* HTML
+* CSS
+
+### Databases
+
+* MySQL
+* SQL
+
+### Problem Solving
+
+* Algorithms
+* Data Structures
+* BFS
+* A* Search
+
+## 📈 أهدافي الحالية
+
+* تطوير مشاريع حقيقية قابلة للاستخدام.
+* تحسين مهارات هندسة البرمجيات وتصميم الأنظمة.
+* المساهمة في مشاريع مفتوحة المصدر.
+* بناء مسيرة مهنية قوية في تطوير البرمجيات.
+
+## 📫 التواصل
+
+* GitHub: https://github.com/H-almaghrbi
+* Email: eng.hudhaifaabdulbari@gmail.com
